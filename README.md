@@ -1,1 +1,2 @@
-# Data-selection-for-contrastive-learning-ECG-signals
+# Data selection for contrastive learning and cardiac arrhythmia detection
+
